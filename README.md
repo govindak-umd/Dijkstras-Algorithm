@@ -1,10 +1,12 @@
 README File
 
 Youtube : https://www.youtube.com/watch?v=m8FAkKLAhUQ&feature=emb_logo
-
+## Visited nodes 
+<br/>
 ![](Images/2020-03-13.png)
 <br/>
 <br/>
+## Backtracked path
 <br/>
 ![](Images/2020-03-13%20(1).png)
 _________________________________________________________________________________________
