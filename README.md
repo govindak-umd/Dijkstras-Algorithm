@@ -25,7 +25,9 @@ Solutions:
 
 ![](Images/2020-03-13%20(1).png)
 
-  Language: Python 3.7.x
+Language
+--
+    Python 3.7.x
 
 Libraries implemented:
 --
